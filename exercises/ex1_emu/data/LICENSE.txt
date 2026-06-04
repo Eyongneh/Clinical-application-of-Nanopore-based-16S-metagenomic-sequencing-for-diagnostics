@@ -1,0 +1,18 @@
+SAMPLE01 is a mix of ca 100 reads from internal control sample from Karolinska
+University Hospital, and ca 1000 reads from:
+
+ZymoBIOMICS Microbial Communities with 16S amplicon, published on:
+https://epi2me.nanoporetech.com/zymo_16s_2025.09/
+
+The license for this dataset is:
+
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+https://creativecommons.org/licenses/by-nc/4.0/
+The following cell lines/DNA samples were obtained from the NIGMS Human Genetic
+Cell Repository at the Coriell Institute for Medical Research: GM24385.
+
+16SNEG and 16SPOS are sequenced negative control and positive control samples
+from Karolinska University Hospital. They are released under license:
+
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+https://creativecommons.org/licenses/by-nc/4.0/

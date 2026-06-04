@@ -1,0 +1,12 @@
+[workspace]
+authors = ["Eyongneh <129198915+Eyongneh@users.noreply.github.com>"]
+channels = ["conda-forge", "bioconda"]
+name = "ex1_emu"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+emu = ">=3.6.2,<4"
+osfclient = ">=0.0.5,<0.0.6"

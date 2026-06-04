@@ -1,0 +1,19 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group	estimated counts
+1639	0.12985765577409314	Listeria monocytogenes	Listeria	Listeriaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				136.99982684166827
+1423	0.16303317535545023	Bacillus subtilis	Bacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria			Bacillus subtilis group	172.0
+1280	0.132701585932068	Staphylococcus aureus	Staphylococcus	Staphylococcaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				140.00017315833173
+1613	0.11090047393364928	Limosilactobacillus fermentum	Limosilactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				116.99999999999999
+28901	0.04404271507399395	Salmonella enterica	Salmonella	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria		Bacteria				46.46506440306362
+1680	0.06729857819905213	Bifidobacterium adolescentis	Bifidobacterium	Bifidobacteriaceae	Bifidobacteriales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria				71.0
+1351	0.1080568720379147	Enterococcus faecalis	Enterococcus	Enterococcaceae	Lactobacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				114.0
+139	0.02843601895734597	Borreliella burgdorferi	Borreliella	Borreliaceae	Spirochaetales	Spirochaetia	Spirochaetes		Bacteria				30.0
+2702	0.07488151658767772	Gardnerella vaginalis	Gardnerella	Bifidobacteriaceae	Bifidobacteriales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria				79.0
+287	0.025592417061611375	Pseudomonas aeruginosa	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria		Bacteria			Pseudomonas aeruginosa group	27.0
+562	0.05074401478382595	Escherichia coli	Escherichia	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria		Bacteria				53.53493559693638
+813	0.015165876777251185	Chlamydia trachomatis	Chlamydia	Chlamydiaceae	Chlamydiales	Chlamydiia	Chlamydiae	PVC group	Bacteria				16.0
+432308	0.026540284360189573	Sphingobium rhizovicinum	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria		Bacteria				28.0
+2022747	0.01042654028436019	Elstera cyanobacteriorum	Elstera	Rhodospirillaceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria		Bacteria				11.0
+70584	0.012322274881516588	Aquabacterium parvum	Aquabacterium		Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				13.0
+unmapped	0.0												0.0
+mapped_filtered	0.0												0.0
+mapped_unclassified	0.0												45.0
