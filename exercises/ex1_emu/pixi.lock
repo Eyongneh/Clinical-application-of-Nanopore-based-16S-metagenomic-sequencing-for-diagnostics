@@ -9,9 +9,12 @@ environments:
     packages:
       linux-64:
       - conda: https://conda.anaconda.org/bioconda/linux-64/bioawk-1.0-h577a1d6_13.tar.bz2
+      - conda: https://conda.anaconda.org/bioconda/linux-64/htslib-1.23.1-h633afcb_0.conda
       - conda: https://conda.anaconda.org/bioconda/linux-64/k8-1.2-he8db53b_6.tar.bz2
       - conda: https://conda.anaconda.org/bioconda/linux-64/minimap2-2.31-h118bc1c_0.conda
       - conda: https://conda.anaconda.org/bioconda/linux-64/pysam-0.24.0-py312hf5ad864_0.conda
+      - conda: https://conda.anaconda.org/bioconda/linux-64/samtools-1.23.1-ha83d96e_0.conda
+      - conda: https://conda.anaconda.org/bioconda/linux-64/seqkit-2.13.0-he881be0_0.conda
       - conda: https://conda.anaconda.org/bioconda/noarch/emu-3.6.2-hdfd78af_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/_openmp_mutex-4.5-20_gnu.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/backports.zstd-1.5.0-py312h90b7ffd_0.conda
@@ -89,6 +92,21 @@ packages:
   license: Free software license (https://github.com/lh3/bioawk/blob/master/README.awk#L1)
   size: 202814
   timestamp: 1734159753063
+- conda: https://conda.anaconda.org/bioconda/linux-64/htslib-1.23.1-h633afcb_0.conda
+  sha256: d0977efb1885c9f00ca76ee13e7c0f9a8936bf271eec25ffa78606cd816a13c9
+  md5: 209caa9e4ff0b9ed02dd09c3161917e5
+  depends:
+  - bzip2 >=1.0.8,<2.0a0
+  - libcurl >=8.19.0,<9.0a0
+  - libdeflate >=1.25,<1.26.0a0
+  - libgcc >=14
+  - liblzma >=5.8.2,<6.0a0
+  - libzlib >=1.3.1,<2.0a0
+  - openssl >=3.5.5,<4.0a0
+  license: MIT
+  license_family: MIT
+  size: 1195461
+  timestamp: 1773854995668
 - conda: https://conda.anaconda.org/bioconda/linux-64/k8-1.2-he8db53b_6.tar.bz2
   sha256: 35143205ef4684f417f047c649aea110e0ceb1d6891001511dbceb2dea08be3d
   md5: 6c44663f234185cc54d7a90c4d7a555a
@@ -131,6 +149,24 @@ packages:
   license: MIT
   size: 3940274
   timestamp: 1777326341973
+- conda: https://conda.anaconda.org/bioconda/linux-64/samtools-1.23.1-ha83d96e_0.conda
+  sha256: 2cb721907a2df7c54580298d655ae7587dbed593bd5536fa8ef4a22c9ae2a496
+  md5: 89624fbd17c069abcbc8b19b96d497a0
+  depends:
+  - htslib >=1.23.1,<1.24.0a0
+  - libgcc >=14
+  - libzlib >=1.3.1,<2.0a0
+  - ncurses >=6.5,<7.0a0
+  license: MIT
+  size: 489995
+  timestamp: 1773861794171
+- conda: https://conda.anaconda.org/bioconda/linux-64/seqkit-2.13.0-he881be0_0.conda
+  sha256: 538ff4ab33819598e45939fe36ea7f4505afba62e90a7cbd95c6f63493aee6d4
+  md5: d4e8a7c9d4b694e70552a84f662ea354
+  license: MIT
+  license_family: MIT
+  size: 6910586
+  timestamp: 1772198535227
 - conda: https://conda.anaconda.org/bioconda/noarch/emu-3.6.2-hdfd78af_0.conda
   sha256: e55440505f706bc45e03fdda8d20b77b3e8671a32093aa7b49133d84f8e2cd9a
   md5: e77cccf3448e24ed3b5169c4681a82af
